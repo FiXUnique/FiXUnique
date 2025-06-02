@@ -1,31 +1,31 @@
+<p align="center" style="background-color:#000000; padding:20px; border-radius:10px; font-family: 'Courier New', Courier, monospace;">
+  <pre style="color:#ff3300; font-size:14px; line-height:1.1; margin:0;">
+___________ .__  ____  ___                                    
+\_   _____/ |__| \   \/  /                                    
+ |    __)   |  |  \     /                                     
+ |     \    |  |  /     \                                     
+ \___  /    |__| /___/\  \                                    
+     \/                \_/                                    
 
-<p align="center" style="background-color:#000000; padding:20px; border-radius:10px;">
-  <pre style="color:#ff3300; font-family: 'Courier New', Courier, monospace; font-size:14px; line-height:1;">
-___________ .__  ____  ___                                     
-\_   _____/ |__| \   \/  /                                     
- |    __)   |  |  \     /                                      
- |     \    |  |  /     \                                      
- \___  /    |__| /___/\  \                                     
-     \/                \_/                                     
-                                                               
-                                                               
-                                                               
-                                                               
-                                                               
-                                                               
-  __  .__               _____       __                         
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+  __  .__               _____       __                          
 _/  |_|  |__   ____   _/ ____\_ ___/  |_ __ _________   ____   
 \   __\  |  \_/ __ \  \   __\  |  \   __\  |  \_  __ \_/ __ \  
  |  | |   Y  \  ___/   |  | |  |  /|  | |  |  /|  | \/\  ___/  
  |__| |___|  /\___  >  |__| |____/ |__| |____/ |__|    \___  > 
-           \/     \/                                       \/   
+           \/     \/                                     \/    
 
                        FiX    The Future
   </pre>
 </p>
 
-<h1 align="center" style="color:#ff3300;">Hi, I'm FiXUnique 👋</h1>
-<p align="center" style="color:#ff3300;">
+<h1 align="center" style="color:#ff3300; font-family: 'Courier New', Courier, monospace;">Hi, I'm FiXUnique 👋</h1>
+<p align="center" style="color:#ff3300; font-family: 'Courier New', Courier, monospace;">
   💻 Developer | 🎮 Game Designer | 🔐 Future Architect
 </p>
 

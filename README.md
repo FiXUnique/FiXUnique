@@ -25,11 +25,11 @@ ___________ .__  ____  ___
 ### 🧠 About Me
 
 - ⚙️ Building the **FIRST AI-powered, all-in-one Game Engine**  
-  → Imagine **Unreal Engine** + **Veo 3** fused into something more powerful.  
+  → Imagine **Unreal Engine** + **Veo 3** fused into something new.  
 - 🌐 Creating an entire ecosystem of **games, tools, and creative power**  
-- 🪙 Developing **FiX Coin** – a utility token for my future marketplace  
+- Developing **FiX Coin** – a utility token for my future marketplace  
   → No scammy coins. No rugpulls. No BS.  
-  → Real currency for **skins, DLC, merch, cross-game assets**, and more.  
+  → Real currency for **skins, DLC, Games, cross-game assets**, and more.  
   → Plus: a **full digital marketplace**, like **Fab** or **Epic**,  
      where creators can sell games, assets, and tools — using FiX or other payment options.
 
@@ -73,6 +73,7 @@ the **FIRST AI-powered programming language**, to my knowledge.
 - Smart, context-aware suggestions  
 - Native **AI assistant** fluent in FiX syntax  
 - Optional **AI-powered rendering** for real-time asset previews
+- Open Sourced Prototype coming soon...
 
 ---
 

@@ -1,82 +1,38 @@
-<p align="center" style="background-color:#000000; padding:20px; border-radius:10px; font-family: 'Courier New', Courier, monospace;">
-  <pre style="color:#ff3300; font-size:14px; line-height:1.1; margin:0;">
-___________ .__  ____  ___                                    
-\_   _____/ |__| \   \/  /                                    
- |    __)   |  |  \     /                                     
- |     \    |  |  /     \                                     
- \___  /    |__| /___/\  \                                    
-     \/                \_/                                    
+# Hi, I'm Vincent Lynott 👋
 
-                                                                  
-      FiX The Future.                                                     
-                                                                  
-                                                                
-                   
-  </pre>
-</p>
+I'm a Software Development student working toward becoming a software engineer.
 
-<h1 align="center" style="color:#ff3300; font-family: 'Courier New', Courier, monospace;">Hi, I'm FiXUnique 👋</h1>
-<p align="center" style="color:#ff3300; font-family: 'Courier New', Courier, monospace;">
-  💻 Developer | 🎮 Game Designer | 🔐 Future Architect
-</p>
+I've been interested in programming since I was young, starting with game development and eventually moving into software, mobile apps, and backend projects.
 
----
+## About Me
 
-### 🧠 About Me
+- 🎓 Studying Software Development
+- 💻 Interested in software engineering, mobile development, and building useful applications
+- 🎮 Background in Unreal Engine and game development
+- 📱 Experience creating Android applications
+- 🛠️ Experience developing Minecraft plugins and tools
 
-- ⚙️ Building the **FIRST AI-powered, all-in-one Game Engine**  
-  → Imagine **Unreal Engine** + **Veo 3** fused into something new.  
-- 🌐 Creating an entire ecosystem of **games, tools, and creative power**  
-- Developing **FiX Coin** – a utility token for my future marketplace  
-  → No scammy coins. No rugpulls. No BS.  
-  → Real currency for **skins, DLC, Games, cross-game assets**, and more.  
-  → Plus: a **full digital marketplace**, like **Fab** or **Epic**,  
-     where creators can sell games, assets, and tools — using FiX or other payment options.
+## Projects
 
----
+Here are some things I've built:
 
-### 📊 GitHub Stats
+- Android applications
+- Minecraft server plugins
+- Game development projects
+- Personal software experiments
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiXUnique&show_icons=true&theme=tokyonight&hide_title=false)
+## Currently Learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FiXUnique&layout=compact&theme=tokyonight)
+- Software engineering practices
+- Mobile development
+- Databases
+- APIs
+- Full-stack development
 
----
+## Goals
 
-### 🧭 Visitor Counter
+My goal is to become a software engineer and continue building software that people can use.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=FiXUnique&style=flat-square&color=blue)
+## Contact
 
----
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FiXUnique&theme=darkhub&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📡 Connect
-
-🌐 [linktr.ee/fixdeveloper](https://linktr.ee/fixdeveloper)
-
----
-
-### 🔮 The FiX Language
-
-Besides the game engine and coin, I'm also creating **FiX** —  
-the **FIRST AI-powered programming language**, to my knowledge.
-
-> Imagine typing like in Minecraft:  
-> `<FiX() s----` *(hit tab)* → and it fills in exactly what you were going to write.
-
-- Built-in AI autocompletion  
-- Smart, context-aware suggestions  
-- Native **AI assistant** fluent in FiX syntax  
-- Optional **AI-powered rendering** for real-time asset previews
-- Open Sourced Prototype coming soon...
-
----
-
-### 🚀 Vision
-
-**FiX is the future of gaming and development.**
+(@lynottt on discord)

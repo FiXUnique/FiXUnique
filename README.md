@@ -1,38 +1,57 @@
 # Hi, I'm Vincent Lynott 👋
 
-I'm a Software Development student working toward becoming a software engineer.
+Software Development student focused on software engineering, mobile development, backend systems, and game-related projects.
 
-I've been interested in programming since I was young, starting with game development and eventually moving into software, mobile apps, and backend projects.
+I started programming through game development and have expanded into software engineering, Android development, APIs, databases, and custom tooling.
 
-## About Me
+## 🎓 About Me
 
-- 🎓 Studying Software Development
-- 💻 Interested in software engineering, mobile development, and building useful applications
-- 🎮 Background in Unreal Engine and game development
-- 📱 Experience creating Android applications
-- 🛠️ Experience developing Minecraft plugins and tools
+- Software Development student
+- Interested in software engineering and backend development
+- Experience building Android applications
+- Background in Unreal Engine and game development
+- Experience developing Minecraft plugins, tools, and server systems
 
-## Projects
+## 🛠️ Technologies
 
-Here are some things I've built:
+- Python
+- Java
+- JavaScript
+- Android Development
+- APIs
+- Databases
+- Git & GitHub
+- Unreal Engine
+- Minecraft Server Development
+
+## 🚀 Projects
 
 - Android applications
-- Minecraft server plugins
+- Minecraft server plugins and utilities
 - Game development projects
 - Personal software experiments
 
-## Currently Learning
+## 📚 Currently Learning
 
-- Software engineering practices
-- Mobile development
-- Databases
-- APIs
+- Software engineering principles
 - Full-stack development
+- Database design
+- REST APIs
+- Software architecture
 
-## Goals
+## 🏆 Certifications
 
-My goal is to become a software engineer and continue building software that people can use.
+### freeCodeCamp
 
-## Contact
+[![Python Developer Certification](images/freecodecamp-python-cert.png)](https://www.freecodecamp.org/certification/fcc-33eebe67-a470-48f4-b002-cea5ea28aad2/python-v9)
 
-(@lynottt on discord)
+**Python Developer Certification**  
+Issued June 2026 • Approximately 300 hours of coursework
+
+## 🎯 Goals
+
+My goal is to become a software engineer and continue building software that solves real-world problems.
+
+## 📫 Contact
+
+- Discord: **@lynottt**

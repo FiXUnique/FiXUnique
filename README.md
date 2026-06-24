@@ -10,24 +10,25 @@ I started programming through game development and have expanded into software e
 - Interested in software engineering and backend development
 - Experience building Android applications
 - Background in Unreal Engine and game development
-- Experience developing Minecraft plugins, tools, and server systems
+- Experience developing PocketMine-MP plugins and server systems using PHP
 
 ## 🛠️ Technologies
 
 - Python
 - Java
 - JavaScript
+- PHP
 - Android Development
 - APIs
 - Databases
 - Git & GitHub
 - Unreal Engine
-- Minecraft Server Development
+- PocketMine-MP Development
 
 ## 🚀 Projects
 
 - Android applications
-- Minecraft server plugins and utilities
+- PocketMine-MP plugins and server utilities
 - Game development projects
 - Personal software experiments
 
@@ -51,6 +52,10 @@ Issued June 2026 • Approximately 300 hours of coursework
 ## 🎯 Goals
 
 My goal is to become a software engineer and continue building software that solves real-world problems.
+
+## 👀 Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=FiXUnique&label=Profile+Views)
 
 ## 📫 Contact
 

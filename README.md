@@ -1,16 +1,17 @@
 # Hi, I'm Vincent Lynott 👋
 
-I'm a Software Development and Design student pursuing an Associate of Applied Science (AAS), with interests in software engineering, backend development, mobile applications, and game-related technology.
+I'm a Software Development and Design student pursuing an Associate of Applied Science (AAS). I enjoy building software, working with backend systems, developing applications, and creating tools for games and online platforms.
 
-I started programming through game development and have continued expanding my skills into application development, APIs, databases, and building custom software solutions.
+I started programming through game development and have since expanded my skills into software development, Android applications, APIs, databases, web development, and custom server systems.
 
 ## 🎓 About Me
 
 - AAS Software Development and Design student
-- Interested in software engineering, backend systems, and application development
-- Experience developing Android applications
+- Interested in software engineering, backend development, and application development
+- Experience building Android applications
 - Background in Unreal Engine and game development
-- Experience creating PocketMine-MP plugins, server systems, and custom tools using PHP
+- Experience developing PocketMine-MP plugins, server systems, and custom tools using PHP
+- Experience deploying websites and applications using Vercel and Netlify
 
 ## 🛠️ Technologies & Tools
 
@@ -19,9 +20,12 @@ I started programming through game development and have continued expanding my s
 - JavaScript
 - PHP
 - Android Development
+- HTML & CSS
 - REST APIs
 - Databases
 - Git & GitHub
+- Vercel
+- Netlify
 - Unreal Engine
 - PocketMine-MP Development
 
@@ -29,16 +33,17 @@ I started programming through game development and have continued expanding my s
 
 - Android applications
 - PocketMine-MP plugins and custom server systems
+- Web applications and deployed projects
 - Game development projects
 - Personal software projects and experiments
 
 ## 📚 Currently Learning
 
-- Software engineering practices
 - Full-stack development
-- Database design and management
-- REST API development
+- Database design
+- API development
 - Software architecture
+- Improving application design and development skills
 
 ## 🏆 Certifications
 
@@ -51,7 +56,7 @@ Issued June 2026 • Approximately 300 hours of coursework
 
 ## 🎯 Goals
 
-My goal is to continue growing as a software developer, build meaningful projects, and pursue a career in software engineering.
+My goal is to continue improving as a developer, build useful software, and pursue a career in software engineering.
 
 ## 👀 Visitors
 

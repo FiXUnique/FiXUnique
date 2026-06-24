@@ -1,25 +1,25 @@
 # Hi, I'm Vincent Lynott 👋
 
-Software Development student focused on software engineering, mobile development, backend systems, and game-related projects.
+I'm a Software Development and Design student pursuing an Associate of Applied Science (AAS), with interests in software engineering, backend development, mobile applications, and game-related technology.
 
-I started programming through game development and have expanded into software engineering, Android development, APIs, databases, and custom tooling.
+I started programming through game development and have continued expanding my skills into application development, APIs, databases, and building custom software solutions.
 
 ## 🎓 About Me
 
-- Software Development student
-- Interested in software engineering and backend development
-- Experience building Android applications
+- AAS Software Development and Design student
+- Interested in software engineering, backend systems, and application development
+- Experience developing Android applications
 - Background in Unreal Engine and game development
-- Experience developing PocketMine-MP plugins and server systems using PHP
+- Experience creating PocketMine-MP plugins, server systems, and custom tools using PHP
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Tools
 
 - Python
 - Java
 - JavaScript
 - PHP
 - Android Development
-- APIs
+- REST APIs
 - Databases
 - Git & GitHub
 - Unreal Engine
@@ -28,16 +28,16 @@ I started programming through game development and have expanded into software e
 ## 🚀 Projects
 
 - Android applications
-- PocketMine-MP plugins and server utilities
+- PocketMine-MP plugins and custom server systems
 - Game development projects
-- Personal software experiments
+- Personal software projects and experiments
 
 ## 📚 Currently Learning
 
-- Software engineering principles
+- Software engineering practices
 - Full-stack development
-- Database design
-- REST APIs
+- Database design and management
+- REST API development
 - Software architecture
 
 ## 🏆 Certifications
@@ -51,7 +51,7 @@ Issued June 2026 • Approximately 300 hours of coursework
 
 ## 🎯 Goals
 
-My goal is to become a software engineer and continue building software that solves real-world problems.
+My goal is to continue growing as a software developer, build meaningful projects, and pursue a career in software engineering.
 
 ## 👀 Visitors
 

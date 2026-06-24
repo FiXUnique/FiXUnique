@@ -1,13 +1,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480">
 </p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vincent+Lynott+%F0%9F%91%8B;Software+Dev+%26+Design+Student;PocketMine-MP+%26+PHP+Dev;Python+Developer;Game+%26+Systems+Dev" alt="Typing SVG" />
   </a>
 </h1>
-
 <p align="center">
   Software Development & Design Student | PHP Developer | PocketMine-MP Developer | Game Development
 </p>
@@ -67,8 +65,11 @@ A free browser-based file renaming tool. Runs entirely client-side with no data 
 ### freeCodeCamp
 
 [![Python Developer Certification](images/freecodecamp-python-cert.png)](https://www.freecodecamp.org/certification/fcc-33eebe67-a470-48f4-b002-cea5ea28aad2/python-v9)
-
 **Python Developer Certification**  
+Issued June 2026 • Approximately 300 hours of coursework
+
+[![JavaScript Algorithms and Data Structures Certification](images/freecodecamp-js-cert.png)](https://www.freecodecamp.org/certification/fcc-33eebe67-a470-48f4-b002-cea5ea28aad2/javascript-v9)
+**JavaScript Algorithms and Data Structures Certification**  
 Issued June 2026 • Approximately 300 hours of coursework
 
 ## 🎯 Goals

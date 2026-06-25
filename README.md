@@ -69,11 +69,17 @@ A browser-based file renaming tool that runs entirely client-side.
 
 ## Certifications
 
-### freeCodeCamp
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/fcc-33eebe67-a470-48f4-b002-cea5ea28aad2/python-v9">
+    <img src="images/freecodecamp-python-cert.png" width="700">
+  </a>
+</p>
 
-Python Developer Certification (June 2026)
-
-JavaScript Algorithms and Data Structures Certification (June 2026)
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/fcc-33eebe67-a470-48f4-b002-cea5ea28aad2/javascript-v9">
+    <img src="images/freecodecamp-js-cert.png" width="700">
+  </a>
+</p>
 
 ## Contact
 

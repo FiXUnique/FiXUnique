@@ -84,26 +84,7 @@ A browser-based file renaming tool that runs entirely client-side.
 -   Database fundamentals
 -   Android Studio
 
-## Certifications
 
-```{=html}
-<p align="center">
-```
-`<a href="https://www.freecodecamp.org/certification/fcc-33eebe67-a470-48f4-b002-cea5ea28aad2/python-v9">`{=html}
-`<img src="images/freecodecamp-python-cert.png" width="700">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://www.freecodecamp.org/certification/fcc-33eebe67-a470-48f4-b002-cea5ea28aad2/javascript-v9">`{=html}
-`<img src="images/freecodecamp-js-cert.png" width="700">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
 ## Contact
 
 Discord: **@lynottt**

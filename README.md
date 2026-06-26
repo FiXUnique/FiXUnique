@@ -1,73 +1,41 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480">
-</p>
+# Hi, I'm FiXUnique 👋
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+FiXUnique+%F0%9F%91%8B;Software+Development+Student;Minecraft+Server+Developer;PocketMine-MP+%26+PHP;Unreal+Engine+Background" alt="Typing SVG" />
-  </a>
-</h1>
+I build backend systems, developer tools, and game server infrastructure.
 
-<p align="center">
-  Software Development & Design Student
-</p>
+Currently, I'm working on **Oblivion MC**, a fully custom Minecraft Bedrock server built on PocketMine-MP.
 
 ---
 
-I'm currently pursuing an Associate of Applied Science (AAS) in Software Development and Design.
+## 🔧 Technologies
 
-Most of my experience comes from building Minecraft Bedrock server systems with PocketMine-MP, creating custom plugins in PHP, and experimenting with game development in Unreal Engine. I'm also working on improving my Python, JavaScript, and Java skills through personal projects and coursework.
-
-## About Me
-
-- Software Development & Design student
-- Developing PocketMine-MP plugins since high school
-- Experience with PHP, Python, and JavaScript
-- Background in Unreal Engine 4 (Blueprints)
-- Interested in backend development and game systems
-- Experience deploying projects with Vercel and Netlify
-
-## Technologies
-
-- PHP
+- PHP (PocketMine-MP)
 - Python
 - JavaScript
-- Java (learning)
-- PocketMine-MP
-- Unreal Engine 4 (Blueprints)
 - Git & GitHub
-- Vercel
-- Netlify
+- REST APIs
+- Database design (MySQL, SQLite)
+- Frontend: HTML, CSS
+- Deployment: Vercel, Netlify
 
-## Projects
+---
 
-### AntiCheatLite
+## 📁 Projects
 
-A PocketMine-MP anticheat plugin featuring combat detection, VPN blocking, and a progressive punishment system.
+### Oblivion MC (Current)
+A Minecraft Bedrock server with custom plugins, in-game economy, and community-driven features. Built from the ground up by me and a small team. Planned launch: July 5, 2026.
 
-- https://poggit.pmmp.io
-
-### Doobie
-
-A small Unreal Engine 4 project created when I was 16 using Blueprint Visual Scripting.
-
-- https://fixstudios.itch.io/doobie
-- https://www.igdb.com/games/doobie
-
-### File Renamer
-
+### FileRenamer
 A browser-based file renaming tool that runs entirely client-side.
 
-- https://filenamer.netlify.app
+🔗 [filenamer.netlify.app](https://filenamer.netlify.app)
 
-## Currently Learning
+### Doobie (Game Dev)
+A small Unreal Engine 4 project built as a learning exercise using Blueprint Visual Scripting.
 
-- Java
-- REST APIs
-- Database fundamentals
-- Android Studio
+🔗 [fixstudios.itch.io/doobie](https://fixstudios.itch.io/doobie)
 
+---
 
-## Contact
+## 📫 Contact
 
-Discord: **@lynottt**
+For professional inquiries, open an issue on any of my repositories.
